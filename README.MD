@@ -19,7 +19,7 @@ These files highlight my advanced Excel skills in analytics and visualization:
 
 - **`Excel - Sales Performance Dashboard.xlsx`**  
   🔍 _Visual storytelling for Revenue Ops_ — Refer to this project image:  
-  ![Sales Dashboard](./Screenshot%202025-07-03%20190134.png)  
+  
   Features dynamic KPIs, filters, country/city breakdowns, POS analysis, and sales performance by owners. Tailored for executive review meetings and strategic decision-making.
 
 - `Excel - LOOKUP, INDEX, MATCH, SUMIFS.xlsx`  
